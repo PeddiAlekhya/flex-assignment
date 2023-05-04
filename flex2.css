@@ -1,0 +1,14 @@
+.image{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    padding: 0;
+  }
+  .first{
+    justify-content: space-around;
+    justify-content: space-between;
+    
+  }
+  .second{
+    justify-content: space-around;
+    justify-content: space-between;
